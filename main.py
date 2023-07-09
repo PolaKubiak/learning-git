@@ -3,3 +3,4 @@ print(directions_of_the_world)
 directions_of_the_world = directions_of_the_world + ["zachód"]
 directions_of_the_world.append("wschód")
 print(directions_of_the_world)
+print("Nauka edycji plików na github")
